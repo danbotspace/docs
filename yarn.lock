@@ -385,17 +385,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/nprogress@npm:^6.0.5":
-  version: 6.0.5
-  resolution: "@mantine/nprogress@npm:6.0.5"
+"@mantine/nprogress@npm:^6.0.8":
+  version: 6.0.8
+  resolution: "@mantine/nprogress@npm:6.0.8"
   dependencies:
-    "@mantine/utils": 6.0.5
+    "@mantine/utils": 6.0.8
   peerDependencies:
-    "@mantine/core": 6.0.5
-    "@mantine/hooks": 6.0.5
+    "@mantine/core": 6.0.8
+    "@mantine/hooks": 6.0.8
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 19d492b1938b976c0b016b78cdc1ad1d7b21fd138c4afdb7fd34e31e377f0c989b899625e15792f09a696631f281095645079a09c5803ddb6c3988134ff6e878
+  checksum: 5bda75fe947e1fc589ef9ac7439e88a53f1ed6f8b258b29193566fe3fa0fa2b4d2b4f3497c69c0a2a6a3cd943abb90f8408afd01b1027a2de93f6511b1187d28
   languageName: node
   linkType: hard
 
@@ -428,20 +428,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/styles@npm:6.0.5":
-  version: 6.0.5
-  resolution: "@mantine/styles@npm:6.0.5"
-  dependencies:
-    clsx: 1.1.1
-    csstype: 3.0.9
-  peerDependencies:
-    "@emotion/react": ">=11.9.0"
-    react: ">=16.8.0"
-    react-dom: ">=16.8.0"
-  checksum: 074012e4899516cd701dbfa032c5eb9865f6a1460fc6ebdfb934d703283a0e9229b18f93ef54d8e9127ba63390e46429cf51a1fbea6ddb77cc1f815d36072797
-  languageName: node
-  linkType: hard
-
 "@mantine/styles@npm:6.0.6":
   version: 6.0.6
   resolution: "@mantine/styles@npm:6.0.6"
@@ -471,6 +457,15 @@ __metadata:
   peerDependencies:
     react: ">=16.8.0"
   checksum: ff6dc1b5d1ab5c9513355b37561a33a7789ab210a49412a02bb21ce5a743fd25b53c9b68d0261f0a5414bc8393366c539ddab0278172d8bd423f1fc0f9415bab
+  languageName: node
+  linkType: hard
+
+"@mantine/utils@npm:6.0.8":
+  version: 6.0.8
+  resolution: "@mantine/utils@npm:6.0.8"
+  peerDependencies:
+    react: ">=16.8.0"
+  checksum: 774dc3277220180982e5ddabe1cfe99831562d10631191cb5beb2f749b90fd13ea8b8474d4e6c32f980260180a41a8e27e4bb17e679f97e5a5b259f98f820fa5
   languageName: node
   linkType: hard
 
@@ -1864,7 +1859,7 @@ __metadata:
     "@mantine/hooks": ^6.0.5
     "@mantine/next": ^6.0.6
     "@mantine/notifications": ^6.0.5
-    "@mantine/nprogress": ^6.0.5
+    "@mantine/nprogress": ^6.0.8
     "@mantine/spotlight": ^6.0.6
     "@mdx-js/loader": ^2.3.0
     "@mdx-js/react": ^2.3.0
