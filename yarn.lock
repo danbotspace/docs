@@ -370,18 +370,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/notifications@npm:^6.0.5":
-  version: 6.0.5
-  resolution: "@mantine/notifications@npm:6.0.5"
+"@mantine/notifications@npm:^6.0.14":
+  version: 6.0.14
+  resolution: "@mantine/notifications@npm:6.0.14"
   dependencies:
-    "@mantine/utils": 6.0.5
+    "@mantine/utils": 6.0.14
     react-transition-group: 4.4.2
   peerDependencies:
-    "@mantine/core": 6.0.5
-    "@mantine/hooks": 6.0.5
+    "@mantine/core": 6.0.14
+    "@mantine/hooks": 6.0.14
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: e39083e7d019f4d51de55e21406d2f601e08ee3450504829d4c15afac687eb2229741ad4d505b6868cba880f0f5d28715bc151b16cb575363d7eb94b74b2db48
+  checksum: ef7e7bbd34247d1291415e9fadc2fd53c3709c3b9899598ad146d6399e8c235bdb3b0bd94a489a23ed63d7a43b1e847b0ed79bab2d3d17b6e4e67a69b6da663a
   languageName: node
   linkType: hard
 
@@ -428,20 +428,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/styles@npm:6.0.5":
-  version: 6.0.5
-  resolution: "@mantine/styles@npm:6.0.5"
-  dependencies:
-    clsx: 1.1.1
-    csstype: 3.0.9
-  peerDependencies:
-    "@emotion/react": ">=11.9.0"
-    react: ">=16.8.0"
-    react-dom: ">=16.8.0"
-  checksum: 074012e4899516cd701dbfa032c5eb9865f6a1460fc6ebdfb934d703283a0e9229b18f93ef54d8e9127ba63390e46429cf51a1fbea6ddb77cc1f815d36072797
-  languageName: node
-  linkType: hard
-
 "@mantine/styles@npm:6.0.6":
   version: 6.0.6
   resolution: "@mantine/styles@npm:6.0.6"
@@ -453,6 +439,15 @@ __metadata:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
   checksum: ff61dc92d0ecc33d99763f59d437b7b5191226809fdb162450cec9786bac1e7375f8521aa3f8095bcb3c9b6b3c75006737523734fbe27c453b23d605994c05d4
+  languageName: node
+  linkType: hard
+
+"@mantine/utils@npm:6.0.14":
+  version: 6.0.14
+  resolution: "@mantine/utils@npm:6.0.14"
+  peerDependencies:
+    react: ">=16.8.0"
+  checksum: 2e495b80bf39d3e443c17f24cac6c5745a50c13f777383c325dc8a31dd91ddd614f8411a7fdf5268e85a14741dc574c6de15d22e1616ca62e7ebfcccc4eb2e17
   languageName: node
   linkType: hard
 
@@ -1863,7 +1858,7 @@ __metadata:
     "@mantine/core": ^6.0.6
     "@mantine/hooks": ^6.0.5
     "@mantine/next": ^6.0.6
-    "@mantine/notifications": ^6.0.5
+    "@mantine/notifications": ^6.0.14
     "@mantine/nprogress": ^6.0.5
     "@mantine/spotlight": ^6.0.6
     "@mdx-js/loader": ^2.3.0
